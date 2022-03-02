@@ -1,0 +1,9 @@
+﻿{
+  PublishedMessages: [
+    {
+      OrderShipped: {
+        OrderId: 12345
+      }
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿using Particular;
+
+PlatformLauncher.Launch();
